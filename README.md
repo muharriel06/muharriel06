@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/banner.gif" alt="MUHARRIEL — Creative Digital Experience" width="100%" />
+</div>
+
+<div align="center">
 
 `CREATIVE DEVELOPER — INDONESIA`
 
